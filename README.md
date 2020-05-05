@@ -44,4 +44,4 @@ oh_my_zsh_plugins,
 
 ## Credits
 
-This was originally inspired by code from [coderwal](https://coderwall.com/p/yw96rg/display-all-commands-offered-by-your-installed-oh-my-zsh-plugins).
+This was originally inspired by code from [coderwall](https://coderwall.com/p/yw96rg/display-all-commands-offered-by-your-installed-oh-my-zsh-plugins).
