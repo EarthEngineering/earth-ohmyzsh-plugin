@@ -39,7 +39,7 @@ Plugin: ruby
 sgem,rfind,rb,gin,gun,gli,
 
 Plugin: earth
-grep: /Users/carloscardona/.oh-my-zsh/plugins/earth: No such file or directory
+oh_my_zsh_plugins,
 ```
 
 ## Credits
