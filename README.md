@@ -24,10 +24,10 @@ plugins=(git earth)
 
 ## Usage
 
-Currently the only function is `options` which lists all of your installed oh-my-zsh plugins and their available functions.
+Currently the only function is `oh_my_zsh_plugins` which lists all of your installed oh-my-zsh plugins and their available functions.
 
 ```bash
-$ options
+$ oh_my_zsh_plugins
 
 Plugin: git
 current_branch,_git_log_prettily{,work_in_progress,gdv,ggf,ggfl,ggl,ggp,ggpnp,ggu,grename,g,ga,gaa,gapa,gau,gav,gap,gb,gba,gbd,gbda,gbD,gbl,gbnm,gbr,gbs,gbsb,gbsg,gbsr,gbss,gc,gc!,gcn!,gca,gca!,gcan!,gcans!,gcam,gcsm,gcb,gcf,gcl,gclean,gpristine,gcm,gcd,gcmsg,gco,gcount,gcp,gcpa,gcpc,gcs,gd,gdca,gdcw,gdct,gds,gdt,gdw,gf,gfa,gfo,gfg,gg,gga,ggpur,ggpull,ggpush,ggsup,gpsup,ghh,gignore,gignored,git-svn-dcommit-push,gk,gke,gl,glg,glgp,glgg,glgga,glgm,glo,glol,glols,glod,glods,glola,glog,gloga,glp,gm,gmom,gmt,gmtvim,gmum,gma,gp,gpd,gpf,gpf!,gpoat,gpu,gpv,gr,gra,grb,grba,grbc,grbd,grbi,grbm,grbs,grev,grh,grhh,groh,grm,grmc,grmv,grrm,grs,grset,grss,grt,gru,grup,grv,gsb,gsd,gsh,gsi,gsps,gsr,gss,gst,gstaa,gstc,gstd,gstl,gstp,gsts,gstu,gstall,gsu,gsw,gswc,gts,gtv,gtl,gunignore,gunwip,gup,gupv,gupa,gupav,glum,gwch,gwip,
