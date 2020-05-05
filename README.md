@@ -41,3 +41,7 @@ sgem,rfind,rb,gin,gun,gli,
 Plugin: earth
 grep: /Users/carloscardona/.oh-my-zsh/plugins/earth: No such file or directory
 ```
+
+## Credits
+
+This was originally inspired by code from [coderwal](https://coderwall.com/p/yw96rg/display-all-commands-offered-by-your-installed-oh-my-zsh-plugins).
