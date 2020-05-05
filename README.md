@@ -22,6 +22,10 @@ Next add `earth` to the loaded plugins in `~/.zshrc`
 plugins=(git earth)
 ```
 
+## Usage
+
+Currently the only function is `options` which lists all of your installed oh-my-zsh plugins and their available functions.
+
 ```bash
 $ options
 
@@ -37,7 +41,3 @@ sgem,rfind,rb,gin,gun,gli,
 Plugin: earth
 grep: /Users/carloscardona/.oh-my-zsh/plugins/earth: No such file or directory
 ```
-
-## Usage
-
-Currently the only function is `options` which lists all of your installed oh-my-zsh plugins and their available functions.
